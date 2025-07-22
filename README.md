@@ -29,9 +29,60 @@ This project simulates a real-world library system. It allows librarians to mana
 
 ---
 
-## 🙋‍♀️ Let's Connect
+## 📁 Folder Structure
+
+```
+library-management/
+├── Main.java            # Runs the app and handles menu
+├── Book.java            # Book model class
+├── Member.java          # Member model class
+├── Library.java         # Logic for managing books and members
+├── data/                # (Optional) Placeholder for book/member data
+├── screenshots/         # Screenshots of the CLI interface
+└── README.md            # Project documentation
+```
+
+---
+
+## ▶️ How to Run
+
+### 1. Open Terminal / Command Prompt
+
+Navigate to the project folder:
+```bash
+cd path/to/library-management
+```
+
+### 2. Compile the Java files
+```bash
+javac *.java
+```
+
+### 3. Run the project
+```bash
+java Main
+```
+
+---
+
+## 📸 Screenshots
+
+> Main Menu Interface  
+![CLI Screenshot](./screenshots/library-menu.png)
+
+> View Book Inventory  
+![Book List Screenshot](./screenshots/view-books.png)
+
+---
+
+## 🙋‍♀️ Author
 
 **C. Sree Sowmya**  
 📧 sreesowmya2k4@gmail.com  
 🔗 [GitHub](https://github.com/SreeSowmya2004) | [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
 
+---
+
+## 📝 License
+
+This project is created for academic and learning purposes. Free to use and improve.
