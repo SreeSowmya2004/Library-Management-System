@@ -64,24 +64,9 @@ java Main
 
 ---
 
-## 📸 Screenshots
-
-> Main Menu Interface  
-![CLI Screenshot](./screenshots/library-menu.png)
-
-> View Book Inventory  
-![Book List Screenshot](./screenshots/view-books.png)
-
----
-
-## 🙋‍♀️ Author
+## 🙋‍♀️ Let's Connect
 
 **C. Sree Sowmya**  
 📧 sreesowmya2k4@gmail.com  
 🔗 [GitHub](https://github.com/SreeSowmya2004) | [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
 
----
-
-## 📝 License
-
-This project is created for academic and learning purposes. Free to use and improve.
