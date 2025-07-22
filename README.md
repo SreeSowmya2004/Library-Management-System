@@ -29,21 +29,6 @@ This project simulates a real-world library system. It allows librarians to mana
 
 ---
 
-## 📁 Folder Structure
-
-```
-library-management/
-├── Main.java            # Runs the app and handles menu
-├── Book.java            # Book model class
-├── Member.java          # Member model class
-├── Library.java         # Logic for managing books and members
-├── data/                # (Optional) Placeholder for book/member data
-├── screenshots/         # Screenshots of the CLI interface
-└── README.md            # Project documentation
-```
-
----
-
 ## 🙋‍♀️ Let's Connect
 
 **C. Sree Sowmya**  
