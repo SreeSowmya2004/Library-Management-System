@@ -38,7 +38,6 @@ library-management/
 ├── Member.java          # Member model class
 ├── Library.java         # Logic for managing books and members
 ├── data/                # (Optional) Placeholder for book/member data
-├── screenshots/         # Screenshots of the CLI interface
 └── README.md            # Project documentation
 ```
 
