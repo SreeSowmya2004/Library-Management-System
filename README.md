@@ -43,27 +43,6 @@ library-management/
 
 ---
 
-## ▶️ How to Run
-
-### 1. Open Terminal / Command Prompt
-
-Navigate to the project folder:
-```bash
-cd path/to/library-management
-```
-
-### 2. Compile the Java files
-```bash
-javac *.java
-```
-
-### 3. Run the project
-```bash
-java Main
-```
-
----
-
 ## 🙋‍♀️ Let's Connect
 
 **C. Sree Sowmya**  
