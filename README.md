@@ -68,10 +68,10 @@ java Main
 ## 📸 Screenshots
 
 > Main Menu Interface  
-![CLI Screenshot](./screenshots/library-menu.png)
+<img width="1024" height="1024" alt="library-menu" src="https://github.com/user-attachments/assets/4fe701ea-8b13-4bbd-9819-4b8ea1e34eed" />
 
 > View Book Inventory  
-![Book List Screenshot](./screenshots/view-books.png)
+<img width="1024" height="1024" alt="view-books" src="https://github.com/user-attachments/assets/9f344c86-0f2c-41d1-9021-c0ab2ffff7e6" />
 
 ---
 
